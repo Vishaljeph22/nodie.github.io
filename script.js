@@ -14,7 +14,7 @@ noBtn.addEventListener('click', ()=>{
     question.innerHTML = 'Smarty... still not letting you die ;)';
 });
 coBtn.addEventListener('click', ()=>{
-    window.open('https://mail.google.com/mail/?view=cm&fs=1&to=vishjeph520@gmail.com&su=RegardingYourRequestForDate&body=DearLove&bcc=vishmeena520@gmail.com');
+    window.open('https://mail.google.com/mail/?view=cm&fs=1&to=vishjeph520@gmail.com&su=RegardingSomething&body=DearLove&bcc=vishmeena520@gmail.com');
 });
 
 noBtn.addEventListener('mouseover', () => {
